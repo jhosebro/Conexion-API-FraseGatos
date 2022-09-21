@@ -1,0 +1,4 @@
+Codigos necesarios para la compilacion e inicializacion de un nuevo proyecto de react
+npx create-react-app my-app
+cd my-app
+npm start
